@@ -47,7 +47,7 @@ namespace Intelligent_Health
             // 
             this.richTextBox1.Location = new System.Drawing.Point(216, 27);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(850, 486);
+            this.richTextBox1.Size = new System.Drawing.Size(1089, 673);
             this.richTextBox1.TabIndex = 1;
             this.richTextBox1.Text = "";
             this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
@@ -56,7 +56,7 @@ namespace Intelligent_Health
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1099, 589);
+            this.ClientSize = new System.Drawing.Size(1336, 734);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.button1);
             this.Name = "MainPage";
